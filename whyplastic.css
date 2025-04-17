@@ -1,0 +1,34 @@
+.why-plastic {
+    padding: 2rem;
+  }
+  
+  .why-hero {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .why-image {
+    width: 100%;
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .why-text {
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .why-text h2 {
+    font-size: 2.2rem;
+    color: #0d6efd;
+    margin-bottom: 1rem;
+  }
+  
+  .why-text p {
+    font-size: 1.1rem;
+    color: #444;
+    line-height: 1.8;
+  }
+  
